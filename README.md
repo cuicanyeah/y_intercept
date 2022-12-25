@@ -4,3 +4,6 @@ In this project, we have tested a deep learning model called TCN. The deep learn
 In the future, we could add a Mixture-of-experts layer between a FCN to increase the generalization ability of the model.
 
 [1] Cui et al. AlphaEvolve: A Learning Framework to Discover Novel Alphas in Quantitative Investmnent
+
+Please see the test.ipynb to get a better presentation for the codes.
+Please run y_intercept.py on a GPU machine to get a faster performance.
